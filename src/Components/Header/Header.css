@@ -1,0 +1,8 @@
+.bg {
+    background-image: url('../../assets/images/bg-shadow.png');
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+}
